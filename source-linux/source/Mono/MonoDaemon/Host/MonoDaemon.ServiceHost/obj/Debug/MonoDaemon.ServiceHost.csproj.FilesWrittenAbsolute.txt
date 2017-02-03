@@ -1,0 +1,7 @@
+/home/angel/Code/Ubuntu/Integration/MonoDaemon/Host/MonoDaemon.ServiceHost/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/angel/Code/Ubuntu/Integration/MonoDaemon/Host/MonoDaemon.ServiceHost/bin/Debug/MonoDaemon.ServiceHost.dll.mdb
+/home/angel/Code/Ubuntu/Integration/MonoDaemon/Host/MonoDaemon.ServiceHost/bin/Debug/MonoDaemon.ServiceHost.dll
+/home/angel/Code/Ubuntu/Integration/MonoDaemon/Host/MonoDaemon.ServiceHost/obj/Debug/MonoDaemon.ServiceHost.dll
+/home/angel/Code/Ubuntu/Integration/MonoDaemon/Host/MonoDaemon.ServiceHost/obj/Debug/MonoDaemon.ServiceHost.dll.mdb
+/home/angel/Code/Ubuntu/Integration/MonoDaemon/Host/MonoDaemon.ServiceHost/bin/Debug/MonoDaemon.Service.dll
+/home/angel/Code/Ubuntu/Integration/MonoDaemon/Host/MonoDaemon.ServiceHost/bin/Debug/MonoDaemon.Service.dll.mdb

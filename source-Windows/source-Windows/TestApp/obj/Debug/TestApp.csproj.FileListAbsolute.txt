@@ -1,0 +1,9 @@
+C:\Users\Angel\Desktop\Test\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\Angel\Desktop\Test\TestApp\bin\Debug\TestApp.exe
+C:\Users\Angel\Desktop\Test\TestApp\bin\Debug\TestApp.pdb
+C:\Users\Angel\Desktop\Test\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\Angel\Desktop\Test\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\Angel\Desktop\Test\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\Angel\Desktop\Test\TestApp\obj\Debug\TestApp.csproj.GenerateResource.Cache
+C:\Users\Angel\Desktop\Test\TestApp\obj\Debug\TestApp.exe
+C:\Users\Angel\Desktop\Test\TestApp\obj\Debug\TestApp.pdb

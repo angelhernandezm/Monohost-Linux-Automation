@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Service", "Service", "{5FA6F767-2743-4238-9CE0-8B3973B070C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoDaemon.Service", "Service\MonoDaemon.Service\MonoDaemon.Service.csproj", "{F9C4997E-D961-4746-AC6D-9F1CC7F9E9FE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ServiceHost", "ServiceHost", "{278B53F8-FB0E-4772-AF88-3AE5A4902241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoDaemon.ServiceHost", "Host\MonoDaemon.ServiceHost\MonoDaemon.ServiceHost.csproj", "{57074DFD-53C4-4C6A-A4C7-777303AC7117}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57074DFD-53C4-4C6A-A4C7-777303AC7117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57074DFD-53C4-4C6A-A4C7-777303AC7117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57074DFD-53C4-4C6A-A4C7-777303AC7117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57074DFD-53C4-4C6A-A4C7-777303AC7117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C4997E-D961-4746-AC6D-9F1CC7F9E9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C4997E-D961-4746-AC6D-9F1CC7F9E9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C4997E-D961-4746-AC6D-9F1CC7F9E9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C4997E-D961-4746-AC6D-9F1CC7F9E9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F9C4997E-D961-4746-AC6D-9F1CC7F9E9FE} = {5FA6F767-2743-4238-9CE0-8B3973B070C6}
+		{57074DFD-53C4-4C6A-A4C7-777303AC7117} = {278B53F8-FB0E-4772-AF88-3AE5A4902241}
+	EndGlobalSection
+EndGlobal
